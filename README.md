@@ -1,5 +1,5 @@
 ### IT Web-Development & Multimedia Komunikasi
-# Achievement & Experiences
+# Achievements & Experiences
 - 🥇 Juara 1 Design Digital Poster at SMAK7 PENABUR
 - 🥉 Juara 3 Design Digital Poster at SMK Telkom
 - 💻 Tim IT dan Multimedia PSB
