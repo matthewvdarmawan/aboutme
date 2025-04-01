@@ -3,9 +3,9 @@
 - Juara 1 Design Digital Poster at SMAK7 PENABUR
 - Juara 3 Design Digital Poster at SMK Telkom
 <h1> My Tech Stack <br>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=round-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=round-square&logo=html5&logoColor=white" width=100px/>
   <img src="https://img.shields.io/badge/-CSS-1a73e8?style=round-square&logo=css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-round&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=round-square&logo=tailwindcss&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=round-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=round-square&logo=react&logoColor=white" />
