@@ -1,8 +1,8 @@
 ### IT Web-Development & Multimedia Komunikasi
 # Achievements & Experiences
-- 🥇 Juara 1 Design Digital Poster at SMAK7 PENABUR
-- 🥉 Juara 3 Design Digital Poster at SMK Telkom
-- 💻 Tim IT dan Multimedia PSB
+- 🥇 1st Winner Design Digital Poster at SMAK7 PENABUR
+- 🥉 3rd Winner Design Digital Poster at SMK Telkom
+- 💻 Tim IT dan Multimedia SMP BPK PENABUR Summarecon Bekasi
 <h1> My Tech Stack <br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css&logoColor=white" />
