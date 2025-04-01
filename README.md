@@ -9,9 +9,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=round-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDBCompass-13aa52?style=round-square&logo=mongodb&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-C++-darkblue?style=round-square&logo=mongodb&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-figma-purple?style=round-square&logo=figma&logoColor=white
-" />
-
+  <img alt="Figma" src="https://img.shields.io/badge/-figma-purple?style=round-square&logo=figma&logoColor=white" />
 </h1>
 
   
