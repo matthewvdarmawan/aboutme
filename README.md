@@ -3,7 +3,7 @@
 - 🥇 1st Winner Design Digital Poster at SMAK7 PENABUR
 - 🥉 3rd Winner Design Digital Poster at SMK Telkom
 - 💻 Tim IT dan Multimedia SMP BPK PENABUR Summarecon Bekasi
-<h3> My Tech Stack <br>
+<h1> My Tech Stack <br>
   <h>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css&logoColor=white" />
@@ -15,7 +15,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-</h3>
+</h1>
 
 
 
