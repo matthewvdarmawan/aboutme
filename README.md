@@ -4,6 +4,7 @@
 - 🥉 3rd Winner Design Digital Poster at SMK Telkom
 - 💻 Tim IT dan Multimedia SMP BPK PENABUR Summarecon Bekasi
 <h3> My Tech Stack <br>
+  <h>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
