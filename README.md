@@ -3,7 +3,7 @@
 - 🥇 Juara 1 Design Digital Poster at SMAK7 PENABUR
 - 🥉 Juara 3 Design Digital Poster at SMK Telkom
 - 💻 Tim IT dan Multimedia PSB
-<h1> My Tech Stack <br><br>
+<h1> My Tech Stack <br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=round-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1a73e8?style=round-square&logo=css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-round&logo=bootstrap&logoColor=white" />
