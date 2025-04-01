@@ -8,7 +8,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=round-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=round-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDBCompass-13aa52?style=round-square&logo=mongodb&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?style=round-square&logo=c++&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?style=round-square&logo=cplusplus&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-figma-purple?style=round-square&logo=figma&logoColor=white" />
 </h1>
 
