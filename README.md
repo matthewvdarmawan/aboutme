@@ -11,6 +11,7 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NodeJS src="https://img.shields.io/badge/-NodeJS-darkgreen?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB Compass-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white" />
