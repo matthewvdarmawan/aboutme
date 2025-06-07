@@ -16,6 +16,8 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express&logoColor=white
+" />
 </h1>
 
 
